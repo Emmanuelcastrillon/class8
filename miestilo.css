@@ -1,7 +1,7 @@
 body{
     background-color:#00ffff;
 }
-header{
+.conimagen{
     text-align: center;
     background-image:url('imagenes/reunion.png');
 }
@@ -62,6 +62,14 @@ footer{
     font-weight: bold;
     font-size: 30px;
     line-height: 40px;
+}
+.volver{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 80px;
+}
+.regresar{
+    text-align: right;
 }
 
 
